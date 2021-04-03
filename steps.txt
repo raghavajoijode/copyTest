@@ -1,0 +1,8 @@
+import git repo to temp folder
+
+ask the project root directory,
+
+copy files from temp dir to <p-path>+'something'
+
+rename files,
+update content
