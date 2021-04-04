@@ -5,4 +5,4 @@ ask the project root directory,
 copy files from temp dir to <p-path>+'something'
 
 rename files,
-update content
+update content develop
